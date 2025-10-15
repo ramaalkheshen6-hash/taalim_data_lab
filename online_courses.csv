@@ -1,0 +1,7 @@
+
+user_id,age    ,country      ,course_name  ,hours_watched,rating,price,enroll_date
+
+1      ,25     ,Syria        ,Python Basics,10           ,4.5   ,30   ,2023-01-15
+2      ,30     ,Egypt        ,Data Analysis,8            ,4.0   ,45   ,2023-02-10
+3      ,22     ,Jordan       ,ML Intro     ,12           ,5.0   ,60   ,2023-03-05
+4      ,35     ,Lebanon      ,Data Viz     ,9            ,4.2   ,40   ,2023-04-12
